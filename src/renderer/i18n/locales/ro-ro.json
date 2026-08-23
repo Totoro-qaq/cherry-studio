@@ -6821,6 +6821,11 @@
       },
       "title": "Captură de ecran"
     },
+    "search": {
+      "noResults": "Nu există setări corespunzătoare",
+      "placeholder": "Caută în setări",
+      "results": "Rezultatele căutării în setări"
+    },
     "shortcuts": {
       "all_disable": "Dezactivează tot",
       "all_enable": "Activează tot",

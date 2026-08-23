@@ -6821,6 +6821,11 @@
       },
       "title": "截图"
     },
+    "search": {
+      "noResults": "没有匹配的设置",
+      "placeholder": "搜索设置",
+      "results": "设置搜索结果"
+    },
     "shortcuts": {
       "all_disable": "全部禁用",
       "all_enable": "全部启用",

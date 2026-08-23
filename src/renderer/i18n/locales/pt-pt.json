@@ -6821,6 +6821,11 @@
       },
       "title": "Captura de ecrã"
     },
+    "search": {
+      "noResults": "Nenhuma configuração correspondente",
+      "placeholder": "Pesquisar configurações",
+      "results": "Resultados da pesquisa de configurações"
+    },
     "shortcuts": {
       "all_disable": "Desativar Todos",
       "all_enable": "Ativar Todos",

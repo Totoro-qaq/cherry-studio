@@ -6821,6 +6821,11 @@
       },
       "title": "Capture d’écran"
     },
+    "search": {
+      "noResults": "Aucun paramètre correspondant",
+      "placeholder": "Rechercher dans les paramètres",
+      "results": "Résultats de recherche des paramètres"
+    },
     "shortcuts": {
       "all_disable": "Désactiver tout",
       "all_enable": "Tout activer",

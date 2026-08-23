@@ -6821,6 +6821,11 @@
       },
       "title": "Screenshot"
     },
+    "search": {
+      "noResults": "No matching settings",
+      "placeholder": "Search settings",
+      "results": "Settings search results"
+    },
     "shortcuts": {
       "all_disable": "Disable All",
       "all_enable": "Enable All",

@@ -6821,6 +6821,11 @@
       },
       "title": "Ảnh chụp màn hình"
     },
+    "search": {
+      "noResults": "Không có cài đặt phù hợp",
+      "placeholder": "Tìm kiếm cài đặt",
+      "results": "Kết quả tìm kiếm cài đặt"
+    },
     "shortcuts": {
       "all_disable": "Tắt Tất Cả",
       "all_enable": "Kích hoạt Tất cả",

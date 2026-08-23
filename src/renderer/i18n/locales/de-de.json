@@ -6821,6 +6821,11 @@
       },
       "title": "Screenshot"
     },
+    "search": {
+      "noResults": "Keine passenden Einstellungen",
+      "placeholder": "Einstellungen durchsuchen",
+      "results": "Ergebnisse der Einstellungssuche"
+    },
     "shortcuts": {
       "all_disable": "Alle deaktivieren",
       "all_enable": "Alle aktivieren",

@@ -6821,6 +6821,11 @@
       },
       "title": "截圖"
     },
+    "search": {
+      "noResults": "沒有符合的設定",
+      "placeholder": "搜尋設定",
+      "results": "設定搜尋結果"
+    },
     "shortcuts": {
       "all_disable": "全部停用",
       "all_enable": "全部啟用",

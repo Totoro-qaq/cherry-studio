@@ -6821,6 +6821,11 @@
       },
       "title": "Captura de pantalla"
     },
+    "search": {
+      "noResults": "No hay configuraciones coincidentes",
+      "placeholder": "Buscar en configuración",
+      "results": "Resultados de búsqueda de configuración"
+    },
     "shortcuts": {
       "all_disable": "Desactivar todo",
       "all_enable": "Habilitar todo",
